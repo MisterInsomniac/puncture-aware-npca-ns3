@@ -1,0 +1,91 @@
+scheme,ppunc,run,bssA_Mbps,bssA_npca_Mbps,obss_Mbps,npca_starts,obss_ppdus,obss_punctured,ap_rejections
+legacy,0.0,1,79.961,0.0,71.004,0,334,0,
+legacy,0.0,2,92.563,0.0,68.751,0,319,0,
+legacy,0.0,3,84.165,0.0,77.384,0,369,0,
+legacy,0.0,4,83.092,0.0,74.153,0,344,0,
+legacy,0.0,5,96.501,0.0,68.976,0,324,0,
+standard,0.0,1,83.588,0.0,70.99,0,333,0,NPCA primary occupied (CH_BANDWIDTH)=286;below minimum duration threshold=1;
+standard,0.0,2,89.454,0.0,68.499,0,319,0,NPCA primary occupied (CH_BANDWIDTH)=249;below minimum duration threshold=3;
+standard,0.0,3,76.41,0.0,77.384,0,367,0,NPCA primary occupied (CH_BANDWIDTH)=307;below minimum duration threshold=1;
+standard,0.0,4,81.538,0.0,74.081,0,339,0,NPCA primary occupied (CH_BANDWIDTH)=281;below minimum duration threshold=1;
+standard,0.0,5,93.784,0.0,69.093,0,328,0,NPCA primary occupied (CH_BANDWIDTH)=257;below minimum duration threshold=3;
+pa,0.0,1,83.588,0.0,70.99,0,333,0,NPCA primary occupied (O = N \ P)=286;below minimum duration threshold=1;
+pa,0.0,2,89.454,0.0,68.499,0,319,0,NPCA primary occupied (O = N \ P)=249;below minimum duration threshold=3;
+pa,0.0,3,76.41,0.0,77.384,0,367,0,NPCA primary occupied (O = N \ P)=307;below minimum duration threshold=1;
+pa,0.0,4,81.538,0.0,74.081,0,339,0,NPCA primary occupied (O = N \ P)=281;below minimum duration threshold=1;
+pa,0.0,5,93.784,0.0,69.093,0,328,0,NPCA primary occupied (O = N \ P)=257;below minimum duration threshold=3;
+legacy,0.2,1,79.961,0.0,71.004,0,334,57,
+legacy,0.2,2,92.563,0.0,68.751,0,319,60,
+legacy,0.2,3,80.619,0.0,77.379,0,363,75,
+legacy,0.2,4,83.092,0.0,74.153,0,344,53,
+legacy,0.2,5,96.501,0.0,68.976,0,324,61,
+standard,0.2,1,83.588,0.0,70.99,0,333,56,NPCA primary occupied (CH_BANDWIDTH)=286;below minimum duration threshold=1;
+standard,0.2,2,89.454,0.0,68.499,0,319,60,NPCA primary occupied (CH_BANDWIDTH)=249;below minimum duration threshold=3;
+standard,0.2,3,83.421,0.0,77.375,0,363,75,NPCA primary occupied (CH_BANDWIDTH)=298;below minimum duration threshold=2;
+standard,0.2,4,81.538,0.0,74.081,0,339,53,NPCA primary occupied (CH_BANDWIDTH)=281;below minimum duration threshold=1;
+standard,0.2,5,93.784,0.0,69.093,0,328,63,NPCA primary occupied (CH_BANDWIDTH)=257;below minimum duration threshold=3;
+pa,0.2,1,83.881,3.992,71.121,46,334,57,NPCA primary occupied (O = N \ P)=240;below minimum duration threshold=5;
+pa,0.2,2,100.75,4.033,68.634,46,315,58,NPCA primary occupied (O = N \ P)=211;below minimum duration threshold=3;
+pa,0.2,3,78.078,5.691,77.37,67,364,76,NPCA primary occupied (O = N \ P)=250;below minimum duration threshold=1;
+pa,0.2,4,91.964,4.046,73.977,46,343,53,NPCA primary occupied (O = N \ P)=239;below minimum duration threshold=2;
+pa,0.2,5,101.241,4.348,69.274,49,329,63,NPCA primary occupied (O = N \ P)=215;below minimum duration threshold=2;
+legacy,0.4,1,79.961,0.0,71.004,0,334,138,
+legacy,0.4,2,92.563,0.0,68.751,0,319,127,
+legacy,0.4,3,81.646,0.0,77.384,0,367,143,
+legacy,0.4,4,83.092,0.0,74.153,0,344,110,
+legacy,0.4,5,96.501,0.0,68.976,0,324,135,
+standard,0.4,1,83.588,0.0,70.99,0,333,137,NPCA primary occupied (CH_BANDWIDTH)=286;below minimum duration threshold=1;
+standard,0.4,2,89.454,0.0,68.499,0,319,127,NPCA primary occupied (CH_BANDWIDTH)=249;below minimum duration threshold=3;
+standard,0.4,3,72.018,0.0,77.379,0,370,143,NPCA primary occupied (CH_BANDWIDTH)=317;below minimum duration threshold=3;
+standard,0.4,4,81.538,0.0,74.081,0,339,108,NPCA primary occupied (CH_BANDWIDTH)=281;below minimum duration threshold=1;
+standard,0.4,5,93.784,0.0,69.093,0,328,138,NPCA primary occupied (CH_BANDWIDTH)=257;below minimum duration threshold=3;
+pa,0.4,1,93.793,10.723,71.152,116,329,135,NPCA primary occupied (O = N \ P)=174;below minimum duration threshold=3;
+pa,0.4,2,95.929,9.818,68.575,104,317,125,NPCA primary occupied (O = N \ P)=166;below minimum duration threshold=1;
+pa,0.4,3,89.468,11.561,77.42,131,365,143,NPCA primary occupied (O = N \ P)=191;below minimum duration threshold=2;
+pa,0.4,4,92.532,8.588,74.315,93,340,109,NPCA primary occupied (O = N \ P)=201;below minimum duration threshold=3;
+pa,0.4,5,97.614,10.047,69.274,112,325,135,NPCA primary occupied (O = N \ P)=165;below minimum duration threshold=2;
+legacy,0.6,1,79.961,0.0,71.004,0,334,199,
+legacy,0.6,2,92.563,0.0,68.751,0,319,189,
+legacy,0.6,3,81.646,0.0,77.384,0,367,219,
+legacy,0.6,4,89.107,0.0,73.725,0,339,193,
+legacy,0.6,5,96.501,0.0,68.976,0,324,197,
+standard,0.6,1,83.588,0.0,70.99,0,333,198,NPCA primary occupied (CH_BANDWIDTH)=286;below minimum duration threshold=1;
+standard,0.6,2,89.454,0.0,68.499,0,319,189,NPCA primary occupied (CH_BANDWIDTH)=249;below minimum duration threshold=3;
+standard,0.6,3,72.018,0.0,77.379,0,370,220,NPCA primary occupied (CH_BANDWIDTH)=317;below minimum duration threshold=3;
+standard,0.6,4,92.221,0.0,73.667,0,340,194,NPCA primary occupied (CH_BANDWIDTH)=268;
+standard,0.6,5,93.784,0.0,69.093,0,328,200,NPCA primary occupied (CH_BANDWIDTH)=257;below minimum duration threshold=3;
+pa,0.6,1,100.168,15.553,70.936,173,333,198,NPCA primary occupied (O = N \ P)=122;below minimum duration threshold=4;
+pa,0.6,2,103.061,14.977,68.602,164,316,187,NPCA primary occupied (O = N \ P)=112;below minimum duration threshold=2;
+pa,0.6,3,95.041,16.702,77.393,189,366,219,NPCA primary occupied (O = N \ P)=125;below minimum duration threshold=6;
+pa,0.6,4,93.802,16.049,74.013,180,346,198,NPCA primary occupied (O = N \ P)=129;below minimum duration threshold=3;
+pa,0.6,5,102.538,15.49,68.859,181,328,200,NPCA primary occupied (O = N \ P)=112;below minimum duration threshold=2;
+legacy,0.8,1,92.338,0.0,71.152,0,332,266,
+legacy,0.8,2,92.563,0.0,68.751,0,319,244,
+legacy,0.8,3,81.646,0.0,77.384,0,367,297,
+legacy,0.8,4,89.107,0.0,73.725,0,339,257,
+legacy,0.8,5,96.501,0.0,68.976,0,324,266,
+standard,0.8,1,84.534,0.0,71.035,0,336,269,NPCA primary occupied (CH_BANDWIDTH)=275;below minimum duration threshold=3;
+standard,0.8,2,89.454,0.0,68.499,0,319,244,NPCA primary occupied (CH_BANDWIDTH)=249;below minimum duration threshold=3;
+standard,0.8,3,72.018,0.0,77.379,0,370,299,NPCA primary occupied (CH_BANDWIDTH)=317;below minimum duration threshold=3;
+standard,0.8,4,92.221,0.0,73.667,0,340,258,NPCA primary occupied (CH_BANDWIDTH)=268;
+standard,0.8,5,93.784,0.0,69.093,0,328,270,NPCA primary occupied (CH_BANDWIDTH)=257;below minimum duration threshold=3;
+pa,0.8,1,101.426,20.072,70.972,234,337,270,NPCA primary occupied (O = N \ P)=59;below minimum duration threshold=4;
+pa,0.8,2,107.053,19.122,68.814,206,314,240,NPCA primary occupied (O = N \ P)=65;
+pa,0.8,3,95.546,22.487,77.393,264,368,298,NPCA primary occupied (O = N \ P)=59;below minimum duration threshold=4;
+pa,0.8,4,100.799,20.212,74.063,226,344,262,NPCA primary occupied (O = N \ P)=71;below minimum duration threshold=4;
+pa,0.8,5,119.16,20.712,68.855,238,327,269,NPCA primary occupied (O = N \ P)=50;below minimum duration threshold=3;
+legacy,1.0,1,92.338,0.0,71.152,0,332,332,
+legacy,1.0,2,92.563,0.0,68.751,0,319,319,
+legacy,1.0,3,81.646,0.0,77.384,0,367,367,
+legacy,1.0,4,89.107,0.0,73.725,0,339,339,
+legacy,1.0,5,96.501,0.0,68.976,0,324,324,
+standard,1.0,1,84.534,0.0,71.035,0,336,336,NPCA primary occupied (CH_BANDWIDTH)=275;below minimum duration threshold=3;
+standard,1.0,2,89.454,0.0,68.499,0,319,319,NPCA primary occupied (CH_BANDWIDTH)=249;below minimum duration threshold=3;
+standard,1.0,3,72.018,0.0,77.379,0,370,370,NPCA primary occupied (CH_BANDWIDTH)=317;below minimum duration threshold=3;
+standard,1.0,4,92.221,0.0,73.667,0,340,340,NPCA primary occupied (CH_BANDWIDTH)=268;
+standard,1.0,5,93.784,0.0,69.093,0,328,328,NPCA primary occupied (CH_BANDWIDTH)=257;below minimum duration threshold=3;
+pa,1.0,1,109.635,25.439,71.152,290,335,335,below minimum duration threshold=3;
+pa,1.0,2,114.276,24.835,68.76,280,315,315,below minimum duration threshold=2;
+pa,1.0,3,98.285,28.151,77.424,325,360,360,below minimum duration threshold=1;
+pa,1.0,4,112.703,27.642,73.905,321,346,346,below minimum duration threshold=3;
+pa,1.0,5,122.282,24.443,69.125,288,329,329,below minimum duration threshold=3;

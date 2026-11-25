@@ -1,0 +1,31 @@
+scheme,ppunc,run,bssA_Mbps,bssA_npca_Mbps,obss_Mbps,npca_starts,obss_ppdus,obss_punctured,ap_rejections,distance
+standard,1.0,1,71.023,0.0,68.095,0,218,218,NPCA primary occupied (CH_BANDWIDTH)=190;below minimum duration threshold=1;,5
+standard,1.0,2,62.222,0.0,69.994,0,223,223,NPCA primary occupied (CH_BANDWIDTH)=188;below minimum duration threshold=2;,5
+standard,1.0,3,49.028,0.0,77.571,0,246,246,NPCA primary occupied (CH_BANDWIDTH)=212;,5
+pa,1.0,1,62.245,0.0,68.47,180,226,226,below minimum duration threshold=4;,5
+pa,1.0,2,65.339,0.0,70.287,186,218,218,below minimum duration threshold=1;,5
+pa,1.0,3,55.847,0.0,77.053,210,245,245,below minimum duration threshold=4;,5
+standard,1.0,1,91.329,0.0,68.395,0,203,203,NPCA primary occupied (CH_BANDWIDTH)=165;below minimum duration threshold=3;,8
+standard,1.0,2,90.3,0.0,70.287,0,202,202,NPCA primary occupied (CH_BANDWIDTH)=163;below minimum duration threshold=3;,8
+standard,1.0,3,83.767,0.0,76.73,0,231,231,NPCA primary occupied (CH_BANDWIDTH)=186;below minimum duration threshold=4;,8
+pa,1.0,1,113.857,20.591,68.455,172,206,206,below minimum duration threshold=2;,8
+pa,1.0,2,114.239,21.89,70.287,172,202,202,below minimum duration threshold=1;,8
+pa,1.0,3,107.376,24.473,77.196,198,232,232,below minimum duration threshold=2;,8
+standard,1.0,1,94.129,0.0,68.162,0,203,203,NPCA primary occupied (CH_BANDWIDTH)=164;below minimum duration threshold=2;,10
+standard,1.0,2,89.376,0.0,70.107,0,200,200,NPCA primary occupied (CH_BANDWIDTH)=161;below minimum duration threshold=2;,10
+standard,1.0,3,71.669,0.0,76.918,0,233,233,NPCA primary occupied (CH_BANDWIDTH)=202;below minimum duration threshold=3;,10
+pa,1.0,1,114.87,19.877,68.463,165,205,205,below minimum duration threshold=2;,10
+pa,1.0,2,114.239,21.89,70.287,172,202,202,below minimum duration threshold=1;,10
+pa,1.0,3,114.044,21.755,76.775,179,230,230,below minimum duration threshold=3;,10
+standard,1.0,1,92.53,0.0,68.448,0,206,206,NPCA primary occupied (CH_BANDWIDTH)=161;below minimum duration threshold=3;,15
+standard,1.0,2,82.595,0.0,70.167,0,203,203,NPCA primary occupied (CH_BANDWIDTH)=160;below minimum duration threshold=1;,15
+standard,1.0,3,71.669,0.0,76.918,0,233,233,NPCA primary occupied (CH_BANDWIDTH)=202;below minimum duration threshold=3;,15
+pa,1.0,1,113.894,24.195,68.485,175,205,205,below minimum duration threshold=2;,15
+pa,1.0,2,111.499,25.472,70.287,177,200,200,below minimum duration threshold=1;,15
+pa,1.0,3,100.873,27.469,77.053,203,227,227,,15
+standard,1.0,1,88.813,0.0,68.485,0,204,204,NPCA primary occupied (CH_BANDWIDTH)=172;below minimum duration threshold=1;,20
+standard,1.0,2,88.715,0.0,69.934,0,200,200,NPCA primary occupied (CH_BANDWIDTH)=157;,20
+standard,1.0,3,78.585,0.0,76.926,0,231,231,NPCA primary occupied (CH_BANDWIDTH)=191;below minimum duration threshold=1;,20
+pa,1.0,1,127.756,23.955,68.372,178,204,204,below minimum duration threshold=2;,20
+pa,1.0,2,111.499,25.472,70.287,177,200,200,below minimum duration threshold=1;,20
+pa,1.0,3,100.873,27.469,77.053,203,227,227,,20

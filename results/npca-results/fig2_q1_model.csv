@@ -1,0 +1,16 @@
+scenario,sweep,value,scheme,run,throughput,delay_ms,successes,collisions,npca_successes,obss_ppdus,npca_eligible,unp,exp
+base,ppunc,0,legacy,-1,0.5,,,,,,,,fig2_q1_model
+base,ppunc,0,standard,-1,0.7,,,,,,,,fig2_q1_model
+base,ppunc,0,pa,-1,0.7,,,,,,,,fig2_q1_model
+base,ppunc,0.2,legacy,-1,0.5,,,,,,,,fig2_q1_model
+base,ppunc,0.2,standard,-1,0.7,,,,,,,,fig2_q1_model
+base,ppunc,0.2,pa,-1,0.76,,,,,,,,fig2_q1_model
+base,ppunc,0.4,legacy,-1,0.5,,,,,,,,fig2_q1_model
+base,ppunc,0.4,standard,-1,0.7,,,,,,,,fig2_q1_model
+base,ppunc,0.4,pa,-1,0.82,,,,,,,,fig2_q1_model
+base,ppunc,0.6,legacy,-1,0.5,,,,,,,,fig2_q1_model
+base,ppunc,0.6,standard,-1,0.7,,,,,,,,fig2_q1_model
+base,ppunc,0.6,pa,-1,0.88,,,,,,,,fig2_q1_model
+base,ppunc,0.8,legacy,-1,0.5,,,,,,,,fig2_q1_model
+base,ppunc,0.8,standard,-1,0.7,,,,,,,,fig2_q1_model
+base,ppunc,0.8,pa,-1,0.94,,,,,,,,fig2_q1_model
